@@ -1,4 +1,4 @@
-##A social networking site similar to instagram using MERN stack
+#A simple endorsement website to practice frontend using styled-components
 
 
 Clone the project and cd over to its directory
