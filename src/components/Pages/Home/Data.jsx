@@ -10,7 +10,7 @@ export const homeObjOne = {
       'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: require('../../../images/profile.jpg').default,
+    img: require('../../../images/undraw_personal_information_962o.svg').default,
     alt: 'Credit Card',
     start: ''
   };
@@ -27,7 +27,7 @@ export const homeObjOne = {
       "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: require('../../../images/profile.jpg').default,
+    img: require('../../../images/undraw_personal_information_962o.svg').default,
     alt: 'Vault',
     start: ''
   };
@@ -45,7 +45,7 @@ export const homeObjOne = {
       "Their team is wonderful! I can't believe I didn't start working with them earlier.",
     buttonLabel: 'View Case Study',
     imgStart: 'start',
-    img: require('../../../images/profile.jpg').default,
+    img: require('../../../images/undraw_teaching_f1cm.svg').default,
     alt: 'Vault',
     start: 'true'
   };
@@ -62,7 +62,7 @@ export const homeObjOne = {
       'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: require('../../../images/profile.jpg').default,
+    img: require('../../../images/undraw_secure_login_pdn4.svg').default,
     alt: 'Vault',
     start: 'true'
   };
