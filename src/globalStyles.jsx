@@ -6,6 +6,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
 }
 `;
 
@@ -18,24 +19,30 @@ export const Container = styled.div`
 `;
 
 export const Button = styled.button`
-    border-radius: 4px;
-    background: ${({primary}) => (primary? '#264653' : '#F4A261')};
+    border-radius: 25px;
+    background: ${({primary}) => (primary? '#E76F51' : '#F4A261')};
     white-space: nowrap;
     padding: ${({big}) => (big? '12px 64px' : '10px 20px')};
-    color: #E76F51;
+    color: #264653;
     font-size: ${({ fontBig }) => (fontBig ? '20px' : '16px')};
     outline: none;
-    border: none;
+    border: 2px solid #264653;
     cursor: pointer;
 
     &:hover {
-    transition: all 0.3s ease-out;
-    background-color: ${({ primary }) => (primary ? '#F4A261' : '#264653')};
-    color: #264653;
+    transition: all 0.2s ease-out;
+    background: ${({primary}) => (primary? '#F4A261' : '#E76F51')};
+    border: 2px solid transparent;
     }
 
     @media screen and (max-width: 767px) {
     width: 100%;
+    border: none;
+
+    &:hover {
+        transition: all 0.2s ease-out;
+        border: none;
+    }
   }
 `;
 

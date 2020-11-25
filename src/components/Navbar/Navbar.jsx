@@ -23,7 +23,7 @@ const Navbar = () => {
     const closeMobileMenu = () => setClick(false);
 
     const showButton = () => {
-        if (window.innerWidth <= 960) {
+        if (window.innerWidth <= 767) {
             setButton(false);
         } else {
             setButton(true);
@@ -69,7 +69,7 @@ const Navbar = () => {
                             </NavBtnLink>
                         ) : (
                             <NavBtnLink to='/sign-up'>
-                                <Button onClick={closeMobileMenu} fontBig primary>
+                                <Button onClick={closeMobileMenu} fontBig>
                                     SIGN UP
                                 </Button>
                             </NavBtnLink>
