@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.ae390c48.chunk.js",
-    "main.js.map": "/static/js/main.ae390c48.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dace27a2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dace27a2.js.map",
-    "static/js/2.13b2993e.chunk.js": "/static/js/2.13b2993e.chunk.js",
-    "static/js/2.13b2993e.chunk.js.map": "/static/js/2.13b2993e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.13b2993e.chunk.js.LICENSE.txt": "/static/js/2.13b2993e.chunk.js.LICENSE.txt",
-    "static/media/undraw_personal_information_962o.svg": "/static/media/undraw_personal_information_962o.24177ab7.svg",
-    "static/media/undraw_secure_login_pdn4.svg": "/static/media/undraw_secure_login_pdn4.52e5fa2f.svg",
-    "static/media/undraw_teaching_f1cm.svg": "/static/media/undraw_teaching_f1cm.033bf58d.svg"
+    "main.js": "/endorsePage/static/js/main.ae390c48.chunk.js",
+    "main.js.map": "/endorsePage/static/js/main.ae390c48.chunk.js.map",
+    "runtime-main.js": "/endorsePage/static/js/runtime-main.a4910461.js",
+    "runtime-main.js.map": "/endorsePage/static/js/runtime-main.a4910461.js.map",
+    "static/js/2.b0811b0b.chunk.js": "/endorsePage/static/js/2.b0811b0b.chunk.js",
+    "static/js/2.b0811b0b.chunk.js.map": "/endorsePage/static/js/2.b0811b0b.chunk.js.map",
+    "index.html": "/endorsePage/index.html",
+    "static/js/2.b0811b0b.chunk.js.LICENSE.txt": "/endorsePage/static/js/2.b0811b0b.chunk.js.LICENSE.txt",
+    "static/media/undraw_personal_information_962o.svg": "/endorsePage/static/media/undraw_personal_information_962o.24177ab7.svg",
+    "static/media/undraw_secure_login_pdn4.svg": "/endorsePage/static/media/undraw_secure_login_pdn4.52e5fa2f.svg",
+    "static/media/undraw_teaching_f1cm.svg": "/endorsePage/static/media/undraw_teaching_f1cm.033bf58d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dace27a2.js",
-    "static/js/2.13b2993e.chunk.js",
+    "static/js/runtime-main.a4910461.js",
+    "static/js/2.b0811b0b.chunk.js",
     "static/js/main.ae390c48.chunk.js"
   ]
 }
